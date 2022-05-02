@@ -11,7 +11,7 @@
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="right" alt="Rafa-pic" height="150" style="border-radius: 50px;"
-src = "https://cdn.discordapp.com/attachments/964736422366027796/970709624934268989/edcføfafb095a814fc83072ddc3322f4.jpg"
+src = "https://cdn.discordapp.com/attachments/964736422366027796/970709624934268989/edcf0fafb095a814fc83072ddc3322f4.jpg"
 </div>
   
 ##
@@ -21,4 +21,5 @@ src = "https://cdn.discordapp.com/attachments/964736422366027796/970709624934268
 target="_blank"></a>
 </div>
 
+  
   
